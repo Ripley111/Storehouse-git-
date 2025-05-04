@@ -1,0 +1,28 @@
+C:\c#\Storehouse\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\c#\Storehouse\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.runtimeconfig.json
+C:\c#\Storehouse\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.csproj.AssemblyReference.cache
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.genruntimeconfig.cache
+C:\c#\Storehouse\Storehouse\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+C:\c#\Storehouse (git)\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\c#\Storehouse (git)\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.runtimeconfig.json
+C:\c#\Storehouse (git)\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse (git)\Storehouse\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.csproj.AssemblyReference.cache
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\DataAccess.genruntimeconfig.cache
+C:\c#\Storehouse (git)\Storehouse\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll

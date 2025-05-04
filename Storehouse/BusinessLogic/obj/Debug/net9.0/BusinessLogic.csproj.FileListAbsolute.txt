@@ -1,0 +1,30 @@
+C:\c#\Storehouse\Storehouse\BusinessLogic\bin\Debug\net9.0\BusinessLogic.deps.json
+C:\c#\Storehouse\Storehouse\BusinessLogic\bin\Debug\net9.0\BusinessLogic.dll
+C:\c#\Storehouse\Storehouse\BusinessLogic\bin\Debug\net9.0\BusinessLogic.pdb
+C:\c#\Storehouse\Storehouse\BusinessLogic\bin\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse\Storehouse\BusinessLogic\bin\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfo.cs
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\Business.CF5D6E35.Up2Date
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.dll
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\refint\BusinessLogic.dll
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.pdb
+C:\c#\Storehouse\Storehouse\BusinessLogic\obj\Debug\net9.0\ref\BusinessLogic.dll
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\bin\Debug\net9.0\BusinessLogic.deps.json
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\bin\Debug\net9.0\BusinessLogic.dll
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\bin\Debug\net9.0\BusinessLogic.pdb
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\bin\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\bin\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfo.cs
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\Business.CF5D6E35.Up2Date
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.dll
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\refint\BusinessLogic.dll
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\BusinessLogic.pdb
+C:\c#\Storehouse (git)\Storehouse\BusinessLogic\obj\Debug\net9.0\ref\BusinessLogic.dll

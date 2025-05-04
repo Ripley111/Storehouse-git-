@@ -1,0 +1,281 @@
+[
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductArrivalController",
+    "Method": "ProductArrivalAsync",
+    "RelativePath": "Arrival/productArrival",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "storehouseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "productQuantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "ProductArrival"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductConsumptionController",
+    "Method": "ConsumptionProductAsync",
+    "RelativePath": "Consumption/productConsumption",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "storehouseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "productQuantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "ProductConsumption"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductMovementController",
+    "Method": "ProductMoveAsync",
+    "RelativePath": "Movement/productMove",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "storehouseSenderId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "storehouseRecipientId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "productQuantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "ProductMove"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductController",
+    "Method": "CreateProductAsync",
+    "RelativePath": "Product/createProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CreateProduct"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductController",
+    "Method": "DeleteProductAsync",
+    "RelativePath": "Product/deleteProduct",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "DeleteProduct"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductController",
+    "Method": "GetProductByIdAsync",
+    "RelativePath": "Product/getProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetProductById"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductController",
+    "Method": "GetProductByNameAsync",
+    "RelativePath": "Product/getProductByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetProductByName"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.ProductController",
+    "Method": "UpdateProductAsync",
+    "RelativePath": "Product/updateProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newPrice",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "UpdateProduct"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.StorageController",
+    "Method": "CreateStorehouseAsync",
+    "RelativePath": "Storehouse/createStorehouse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CreateStorehouse"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.StorageController",
+    "Method": "DeleteStorehouseAsync",
+    "RelativePath": "Storehouse/deleteStorehouse",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "DeleteStorehouse"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.StorageController",
+    "Method": "GetStorehouseByIdAsync",
+    "RelativePath": "Storehouse/getStorehouseById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetStorehouseById"
+  },
+  {
+    "ContainingType": "Storehouse.WebApi.Controllers.StorageController",
+    "Method": "UpdateStorehouseAsync",
+    "RelativePath": "Storehouse/updateStorehouse",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "UpdateStorehouse"
+  }
+]

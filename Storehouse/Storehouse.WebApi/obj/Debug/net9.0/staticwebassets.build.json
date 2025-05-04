@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fz8W5wo87MpJgaMx2Y6x+XylxqVcBfqPQh78s2PNvB4=",
+  "Source": "Storehouse.WebApi",
+  "BasePath": "_content/Storehouse.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

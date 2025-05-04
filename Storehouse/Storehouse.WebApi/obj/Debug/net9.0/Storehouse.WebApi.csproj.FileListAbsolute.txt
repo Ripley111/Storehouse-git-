@@ -1,0 +1,274 @@
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\appsettings.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.staticwebassets.endpoints.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.exe
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.deps.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.runtimeconfig.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.pdb
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Npgsql.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\BusinessLogic.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\BusinessLogic.pdb
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.csproj.AssemblyReference.cache
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.AssemblyInfoInputs.cache
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.AssemblyInfo.cs
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.csproj.CoreCompileInputs.cache
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\scopedcss\bundle\Storehouse.WebApi.styles.css
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.Storehouse.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.Storehouse.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.build.Storehouse.WebApi.props
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Storehouse.WebApi.props
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Storehouse.WebApi.props
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehou.43308E6D.Up2Date
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\refint\Storehouse.WebApi.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.pdb
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.genruntimeconfig.cache
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\ref\Storehouse.WebApi.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\appsettings.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.staticwebassets.endpoints.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.exe
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.deps.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.runtimeconfig.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Storehouse.WebApi.pdb
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Npgsql.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\BusinessLogic.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\DataAccess.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\BusinessLogic.pdb
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\bin\Debug\net9.0\DataAccess.pdb
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.csproj.AssemblyReference.cache
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.AssemblyInfoInputs.cache
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.AssemblyInfo.cs
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.csproj.CoreCompileInputs.cache
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\scopedcss\bundle\Storehouse.WebApi.styles.css
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.Storehouse.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.Storehouse.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.build.Storehouse.WebApi.props
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Storehouse.WebApi.props
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Storehouse.WebApi.props
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehou.43308E6D.Up2Date
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\refint\Storehouse.WebApi.dll
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.pdb
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\Storehouse.WebApi.genruntimeconfig.cache
+C:\c#\Storehouse (git)\Storehouse\Storehouse.WebApi\obj\Debug\net9.0\ref\Storehouse.WebApi.dll
